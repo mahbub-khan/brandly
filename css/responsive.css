@@ -1,0 +1,328 @@
+@media screen and (max-width:767px){
+	.nav{
+		background:rgba(50,51,56,1);
+	}
+	.navbar-right{
+		margin-top: 0px;
+	}
+	.navbar-nav > li > a{
+		text-align: center;
+	}
+}
+
+
+@media screen and (max-width:1300px){
+
+	/* carousel styling starts */
+	.carousel-caption h1{
+		font-size: 33px;
+	}
+	.carousel-caption h4{
+   	 font-size: 18px;
+	}
+	.carousel-caption h4:first-child{
+		letter-spacing: 6px;
+	}
+	.carousel-inner > .item {
+        padding-top: 90px;
+    margin-bottom: 90px;
+	}
+/* carousel styling ends */
+
+
+
+/* owl carousel button styling starts */
+.owl-theme .owl-controls .owl-buttons .owl-prev{
+	left:-65px;
+	font-size: 80px;
+
+}
+.owl-theme .owl-controls .owl-buttons .owl-next{
+	right:-65px;
+	font-size: 80px;
+}
+
+/* owl carousel button styling ends */
+
+}
+
+
+@media screen and (max-width:1100px){
+	.carousel-caption h1{
+		font-size: 28px;
+	}
+	.carousel-caption h4{
+   	 font-size: 18px;
+	}
+	.carousel-inner > .item {
+        padding-top: 70px;
+    margin-bottom: 30px;
+	}
+
+	.carousel-caption .btn-custom{
+		margin-top: 25px;
+	}
+}
+
+
+@media screen and (max-width:935px){
+.carousel-caption h4{
+   	 font-size: 15px;
+	}
+	.carousel-caption h1{
+		font-size: 24px;
+    	margin: 16px 0;
+	}
+	.carousel-caption h4:first-child{
+		letter-spacing: 4px;
+	}
+	.carousel-inner > .item {
+        padding-top: 40px;
+    margin-bottom: 20px;
+	}
+
+
+	/*navbar styling*/
+.navbar-default .navbar-nav > li > a {font-size: 14px;}
+.navbar-brand > img{width: 80%;}
+
+}
+
+@media screen and (max-width:834px){
+.carousel-caption h4{
+   	 font-size: 13px;
+	}
+	.carousel-caption h1{
+		font-size: 18px;
+    	margin: 16px 0;
+	}
+	.carousel-caption h4:first-child{
+		letter-spacing: 4px;
+	}
+	.carousel-inner > .item {
+        padding-top: 130px;
+    margin-bottom: 5px;
+    margin-top: 140px;
+	}
+
+}
+@media screen and (max-width:767px){
+.carousel-inner > .item {
+       padding-top: 170px;
+    margin-bottom: 15px;
+    margin-top: 100px;
+	}
+}
+@media screen and (max-width:715px){
+	.carousel-inner > .item {
+       padding-top: 120px;
+    margin-bottom: 5px;
+    margin-top: 100px;
+	}
+
+}
+@media screen and (max-width:600px){
+	.carousel-indicators {
+		display: none;
+	}
+	.carousel-caption h1{
+		font-size: 16px;
+	}
+	.carousel-caption h4{
+		font-size: 13px;
+	}
+	.carousel-caption .btn-custom{
+		margin-top: 10px;
+		padding: 5px 10px;
+		font-size: 12px;
+	}
+	.carousel-inner > .item {
+      padding-top: 180px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+	}
+
+	
+	#product{
+		padding-top: 20px;
+	}
+}
+@media screen and (max-width:472px){
+	.carousel-caption h1{
+		font-size: 14px;
+		margin:10px 0; 
+	}
+	.carousel-caption h4{
+		font-size: 12px;
+	}
+	.carousel-caption .btn-custom{
+		margin-top: 5px;
+		padding: 5px;
+		font-size: 10px;
+	}
+	.carousel-inner > .item {
+      padding-top: 180px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+	}
+
+}
+
+@media screen and (max-width:435px){
+	.carousel-caption h1{
+		font-size: 12px;
+		margin:8px 0; 
+	}
+	.carousel-caption h4{
+		font-size: 10px;
+	}
+	.carousel-caption .btn-custom{
+		margin-top: 5px;
+		padding: 3px;
+		font-size: 8px;
+	}
+	.carousel-inner > .item {
+      padding-top: 150px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+	}
+
+}
+
+/*carousel styling ends*/
+
+
+
+
+
+
+/* owl carousel button styling starts */
+@media screen and (max-width:1280px) and (min-width: 1200px){
+	.owl-theme .owl-controls .owl-buttons .owl-prev{
+	left:-25px;
+	font-size: 32px;
+
+	}
+	.owl-theme .owl-controls .owl-buttons .owl-next{
+	right:-25px;
+	font-size: 32px;
+	}
+
+
+}
+
+
+@media screen and (max-width:1080px) and (min-width: 992px){
+.owl-theme .owl-controls .owl-buttons .owl-prev{
+	left:-30px;
+	font-size: 40px;
+
+}
+.owl-theme .owl-controls .owl-buttons .owl-next{
+	right:-30px;
+	font-size: 40px;
+}
+
+
+}
+
+@media screen and (max-width:860px) and (min-width: 786px){
+.owl-theme .owl-controls .owl-buttons .owl-prev{
+	left:-30px;
+	font-size: 50px;
+
+}
+.owl-theme .owl-controls .owl-buttons .owl-next{
+	right:-30px;
+	font-size: 50px;
+}
+
+}
+
+@media screen and (max-width:785px){
+.owl-theme .owl-controls .owl-buttons {
+	display: none;
+}
+}
+
+
+
+/* owl carousel button styling ends */
+
+
+
+
+/* trending item styling starts*/
+
+@media screen and (max-width: 1199px) and (min-width: 992px){
+	.trending-caption h4{
+		margin-top: 0px;
+	}
+
+	.button-1-size{
+		margin-top: 40px;
+	}
+
+	.button-2-shop{
+		margin-top: 45px;
+
+	}
+}
+
+
+@media screen and (max-width: 991px) and (min-width: 768px){
+.trending-caption h4{
+	font-size: 20px;
+}
+.trending-caption p:nth-child(2){
+	margin-top: 15px;
+}
+.trending-caption p:nth-child(3){
+	margin-top: 15px;
+}
+.trending-caption p:nth-child(4){
+	margin-top: 20px;
+
+}
+.trending-caption p:nth-child(5){
+	letter-spacing: 1px;
+	margin-top: 12px;
+}
+
+	.button-1-size,.button-2-shop{
+		margin-top: 25px;
+	}
+		.button-1-size li a,
+	.button-2-shop li a{
+		padding: 5px 10px;
+	}
+	
+}
+
+@media screen and (max-width: 767px){
+	.button-1-size,.button-2-shop{
+		margin-top: 30px;
+	}
+		.button-1-size li a,
+	.button-2-shop li a{
+		padding: 5px 10px;
+		font-size: 12px;
+	}
+}
+
+/* trending item styling ends*/
+
+
+/*subscribe button styling starts*/
+@media screen and (min-width: 767px){
+	.subscribe-button .btn-custom{
+	    width: 100%;
+	}
+}
+@media screen and (max-width: 767px){
+	.subscribe-button .btn-custom{
+	    margin-top: 20px;
+	}
+}
+
+/*subscribe button styling ends*/
